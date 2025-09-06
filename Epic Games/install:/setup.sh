@@ -2,4 +2,4 @@
 
 # post:
 cd /home/me/.local/share/Steam/steamapps/compatdata/NonSteamLaunchers/pfx/drive_c/proton_shortcuts
-sudo ln -srf Epic\ Games\ Launcher.desktop /usr/share/applications/
+sudo cp Epic\ Games\ Launcher.desktop /usr/share/applications/
